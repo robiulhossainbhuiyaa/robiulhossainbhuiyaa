@@ -2,13 +2,11 @@
 
 ### Web Developer | PHP | Laravel | CodeIgniter 4 | MySQL
 
-I am a Web Developer from Bangladesh with practical experience in PHP, CodeIgniter 4, MySQL, JavaScript, HTML5, CSS3, jQuery, AJAX, JSON, and REST APIs.
+I am a Web Developer from Bangladesh with practical experience in PHP, Laravel, CodeIgniter 4, MySQL, JavaScript, HTML5, CSS3, jQuery, AJAX, JSON, and REST APIs.
 
-I have experience developing and maintaining web applications using MVC architecture, building CRUD functionality, integrating MySQL databases, developing responsive interfaces, working with APIs, and troubleshooting application issues.
+I enjoy building and maintaining web applications, working with MVC architecture, database-driven systems, CRUD functionality, responsive interfaces, API integration, and application troubleshooting.
 
-I also work with Laravel and have practical experience with routing, controllers, models, Blade templates, Eloquent ORM, database migrations, form validation, CRUD operations, and MySQL database integration.
-
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Skills
 
 ### Backend
 
@@ -32,20 +30,47 @@ I also work with Laravel and have practical experience with routing, controllers
 
 * Git
 * GitHub
+* Composer
 * Postman
-* VS Code
+* Visual Studio Code
+* XAMPP
 
-## 🚀 Featured Project
+### Laravel
+
+* Routing
+* Controllers
+* Models
+* Blade Templates
+* Eloquent ORM
+* Database Migrations
+* Form Validation
+* CRUD Operations
+* Middleware
+* Database Integration
+
+## 🚀 Featured Projects
+
+### AmarShop — Laravel E-commerce Web Application
+
+A Laravel-based e-commerce web application featuring shopping functionality, authentication, wishlist, product comparison, dashboard management, user permissions, website configuration, MySQL database integration, and AJAX-based interactions.
+
+🔗 Repository: https://github.com/robiulhossainbhuiyaa/amarshop
 
 ### BhuiyaShop — E-commerce Web Application
 
 A live e-commerce web application developed using PHP, CodeIgniter 4, MySQL, JavaScript, jQuery, AJAX, HTML5, and CSS3.
 
-🌐 **Live Website:** https://bhuiyaashop.com/
+🌐 Live Website: https://bhuiyaashop.com/
 
-My work includes web application development, MVC-based functionality, database integration, CRUD operations, responsive interfaces, and application maintenance.
+> The source code of this company project is not publicly available.
 
-> Note: The source code of this company project is not publicly available.
+## 💼 Professional Experience
+
+### Web Developer — Visual HD Soft
+
+**2020 – Present**
+
+Working on web application development and maintenance using PHP, CodeIgniter 4, Laravel, MySQL, JavaScript, jQuery, AJAX, REST APIs, and related web technologies.
 
 ## 🌱 Currently Learning & Improving
 
@@ -55,22 +80,14 @@ My work includes web application development, MVC-based functionality, database 
 * Database design and optimization
 * Clean and maintainable application development
 
-## 💼 Professional Experience
-
-**Web Developer — Visual HD Soft**
-
-**2020 – Present**
-
-Working on web application development and maintenance using PHP, CodeIgniter 4, MySQL, JavaScript, jQuery, AJAX, REST APIs, and related web technologies.
-
 ## 📫 Contact
 
-📧 **Email:** [robiulhossainbhuiyan@gmail.com](mailto:robiulhossainbhuiyan@gmail.com)
+📧 Email: [robiulhossainbhuiyan@gmail.com](mailto:robiulhossainbhuiyan@gmail.com)
 
-🌐 **Live Project:** https://bhuiyaashop.com/
+🔗 LinkedIn: https://www.linkedin.com/in/robiul-hossain-55b560216/
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/robiul-hossain-55b560216/
+🌐 Live Project: https://bhuiyaashop.com/
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
